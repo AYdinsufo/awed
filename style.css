@@ -1,0 +1,18 @@
+body{
+    background-image: URL("back\ on\ the\ ground.webp");
+    background-size: cover;
+}
+.heading{
+    width:100%;
+    font-size: 25px;
+    margin: 0;
+}
+.footer{
+    position: fixed;
+    text-align: center;
+    bottom: 0;
+    background-color: black;
+    color: aliceblue;
+    width: 100%;
+    line-height: 3;
+}
